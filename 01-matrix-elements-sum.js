@@ -1,6 +1,6 @@
 function getMatrixElementsSum(matrix) {
   var arr0 = [];
-  let sum = [];
+  var sum = [];
   let result = 0;
   for (let i = 0; i < matrix.length; i++) {
     for (let j = 0; j < matrix[i].length; j++) {
