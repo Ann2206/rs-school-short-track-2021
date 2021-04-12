@@ -1,5 +1,5 @@
 function getMatrixElementsSum(matrix) {
-  let arr0 = [];
+  var arr0 = [];
   let sum = [];
   let result = 0;
   for (let i = 0; i < matrix.length; i++) {
