@@ -1,5 +1,3 @@
-36
-33
 /**
  * Given matrix, a rectangular matrix of integers,
  * just add up all the values that don't appear below a "0".
@@ -34,5 +32,5 @@ function getMatrixElementsSum( matrix ) {
     result += sum[i];
   }
   return result;
-  }
+}
 module.exports = getMatrixElementsSum;
